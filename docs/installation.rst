@@ -8,9 +8,9 @@ Installation
 
     INSTALLED_APPS = (
         # all
-        # other 
+        # other
         # apps
-        'intercom',
+        'django_intercom',
     )
 
 3. Add "INTERCOM_APPID" setting to your django settings file with your intercom application Id.

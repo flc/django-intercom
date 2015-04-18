@@ -98,7 +98,7 @@ def find_package_data(
     return out
 
 README = read('README.rst')
-PACKAGE = "intercom"
+PACKAGE = "django_intercom"
 VERSION = __import__(PACKAGE).__version__
 
 setup(

@@ -52,7 +52,7 @@ copyright = u'2012, Ken Cochrane'
 # built documents.
 #
 sys.path.insert(0, os.pardir)
-m = __import__("intercom")
+m = __import__("django_intercom")
 
 version = m.__version__
 release = version
